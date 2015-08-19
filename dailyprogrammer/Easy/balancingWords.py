@@ -1,3 +1,5 @@
+#https://www.reddit.com/r/dailyprogrammer/comments/3c9a9h/20150706_challenge_222_easy_balancing_words/
+
 from string import ascii_uppercase
 
 alphabet = dict.fromkeys(ascii_uppercase)
